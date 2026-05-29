@@ -1,16 +1,16 @@
 # 🔥 Hi there, I'm KHASHAYAR  👋
-# ✅ I'm a tech enthusiast and programmer who loves building cool stuff and learning new things. I'm always curious and eager to explore the latest technologies.
+## ✅ I'm a tech enthusiast and programmer who loves building cool stuff and learning new things. I'm always curious and eager to explore the latest technologies.
 
 
 # 🛠 Tech stack
 
-#### 🧠 AI
+## 🧠 AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 -----------------
-#### 🌐 Web Programming
+## 🌐 Web Programming
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@
 
 
 ------------
-#### ⓘ Other skills
+## ⓘ Other skills
 
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -38,17 +38,12 @@
 
 
 -----------------------------------
-#### 🔎 On My Learning Radar
+## 🔎 On My Learning Radar
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
