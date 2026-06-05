@@ -44,8 +44,8 @@
 -------------------------------------------------
 # 📞contact
 
-### Gmail: khashayar.alipour111@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](-)
+### khashayar.alipour111@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khashayar-alipour-99543b414)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](-)
 
 ------------------------
